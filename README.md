@@ -67,12 +67,16 @@ Time shown in the figure indicates that the Transfer operation can only succeed 
 
 ### F.Create
 #### Input
-input: Username, HKD Account, USD Account, CNY Account
+Username, HKD Account, USD Account, CNY Account
+#### Detail functions
 1. Initialize account information
 #### Output
 <img width="600" alt="Create" src="https://user-images.githubusercontent.com/67938768/172194968-c735f820-dc41-495b-b477-c0be49b5a8be.png">
 
 ### G.Quit
+#### Detail functions
+1. Stop the project
+
 
 ### OSL_FEE Account
 #### Detail functions
